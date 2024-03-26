@@ -1,6 +1,6 @@
 # Tic Tac Toe (Kotlin)
 
-This is a sample repository for a tic tac toe game implemented with Kotling in Android Studio.
+This is a sample repository for a tic tac toe game implemented with Kotlin in Android Studio.
 
 It features the following:
 > music
