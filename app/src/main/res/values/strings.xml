@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title">Tic Tac Toe</string>
+    <string name="versus_dumb">Play Versus Dumb AI</string>
+    <string name="versus_smart">Play Versus Smart AI</string>
+    <string name="title_board">Tic Tac Toe Board</string>
+    <string name="you_win">You Win!</string>
+    <string name="you_lose">You Lose!</string>
+    <string name="tie">It\'s a Tie!</string>
+    <string name="is_smart">isSmart</string>
+</resources>
